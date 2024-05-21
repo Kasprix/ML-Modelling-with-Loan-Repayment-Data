@@ -1,5 +1,4 @@
-# Project Title: Initial Coding
-
+# ML Modelling with Loan Repayment Data
 This repository contains a Jupyter Notebook that covers various data processing and analysis tasks. The notebook includes examples of data manipulation, visualization, and machine learning using Python.
 
 ## Table of Contents
@@ -18,7 +17,7 @@ To run the notebook, you need to have Python and Jupyter Notebook installed on y
 
 ### Clone the repository:
 ```
-git clone https://github.com/kasprix/your-repository.git
+git clone https://github.com/Kasprix/ML-Modelling-with-Loan-Repayment-Data
 cd your-repository
 ```
 
