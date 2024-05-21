@@ -1,4 +1,4 @@
-# Project Title: ML Modelling with Loan Repayment Data
+# ML Modelling with Loan Repayment Data
 This repository contains a Jupyter Notebook that covers various data processing and analysis tasks. The notebook includes examples of data manipulation, visualization, and machine learning using Python.
 
 ## Table of Contents
